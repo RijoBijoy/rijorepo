@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image: url(image/nn.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;	
+}
+.inputstyle{
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+	/*font-family: Candara;*/
+	font-family: Courier New;
+	border:none;
+	border-radius:40px;
+	color:black; 
+
+}
+
+.inputstyle:hover{
+	background-color: #f2f2f0;
+}
+
+.regButton{
+	width: 200px;
+	height: 40px;
+	font-size: 20px;
+	/*font-family: Candara;*/
+	font-family: Courier New;
+	border:none;
+	border-radius:40px;
+	color:white;
+	background-color: #404347;
+}
+.regButton:hover{
+	background-color: black;
+}@charset "ISO-8859-1";
